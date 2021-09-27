@@ -33,8 +33,8 @@ Mobile view:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Repository URL: [GitHub Repository](https://github.com/Subject6735/sunnyside-agency-landing-page)
+- Live Site URL: [Live site](https://subject6735.github.io/sunnyside-agency-landing-page/)
 
 ## My process
 
